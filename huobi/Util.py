@@ -7,8 +7,11 @@ import urllib.request
 
 
 #在此输入您的Key
-ACCESS_KEY = ""
-SECRET_KEY = ""
+#ACCESS_KEY = ""
+#SECRET_KEY = ""
+
+ACCESS_KEY="e3977f44-8f677210-00116494-af290"
+SECRET_KEY="7f57a383-1f3a8d46-343e394a-8621a"
 
 
 HUOBI_SERVICE_API="https://api.huobi.com/apiv3"
